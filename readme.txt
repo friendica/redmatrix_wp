@@ -1,21 +1,24 @@
-=== CrossPost to redmatrix ===
+=== Redmatrix_WP ===
 Contributors: duthied, macgirvin
 Donate link: TBD
 Tags: redmatrix, crosspost
 Requires at least: 3.2
 Tested up to: 3.2
-Stable tag: 1.2
+Stable tag: 1.3
 
-CrossPost to Red Matrix for WordPress
+CrossPost to RedMatrix for WordPress
 
 == Description ==
-This plugin allows you to cross post to your Red Matrix account.
+This plugin allows you to cross post to your RedMatrix account.
 
 **Note, this plugin converts the html from wordpress into bbcode.  
 The bbcode conversion doesn't handle height and width of an image, so be warned that if you post a very large
 image that is resized via height and with attributes, those attributes won't be honored in the resulatant post.
 
 == Changelog ==
+= 1.3 = 
+* post WP comments as well as posts
+
 = 1.2 =
 * ensured no function name collision
 
